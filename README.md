@@ -1,6 +1,8 @@
 # Py-script-monitor
 Py-script-monitor helps run \*.py files and track their performance
 
+![alt text](https://github.com/russsik1/py-script-monitor/blob/master/example.png)
+
 :ru:
 
 Py-script-monitor позволяет запускать/завершать .py файлы с помощью панели управления.  
