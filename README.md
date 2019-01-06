@@ -1,9 +1,7 @@
 # Py-script-monitor
 Py-script-monitor helps run \*.py files and track their performance
 
-
-🇷🇺
-
+:ru:
 
 Py-script-monitor позволяет запускать/завершать .py файлы с помощью панели управления.  
 Скачайте архив с проектом и распакуйте. Добавьте .py файлы в каталог /apps и удалите ненужные файлы.  
@@ -25,9 +23,7 @@ print = logging.info
 Параметры цветов фона, шрифта, элементов доступны в файле *config.py*  
 [https://py-script-monitor.herokuapp.com/](https://py-script-monitor.herokuapp.com/) - Демонстрационная версия
 
-
-🇺🇸
-
+:us:
 
 Py-script-monitor allows you to run/terminate .py files using the control panel.
 Download the archive with the project and unpack. Add .py files to the /apps directory and delete unnecessary files.
@@ -46,28 +42,7 @@ logging.basicConfig(
 )
 print = logging.info
 ```
-You can change background, font, element color in *config.py*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+You can change background, font, element color in *config.py*  
+[https://py-script-monitor.herokuapp.com/](https://py-script-monitor.herokuapp.com/) - Example
 
 
